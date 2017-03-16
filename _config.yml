@@ -7,8 +7,8 @@ paginate: 5
 gems: [jekyll-paginate]
 port: 4000
 safe: true
-url: http://biomadeira.github.io/vitae
-author: Fábio Madeira
+url: http://nannxiao.github.io/vitae
+author: Nan Xiao
 
 # edit this section with your information
 # biomadeira.github.io - all contents run on /vitae/
@@ -22,13 +22,13 @@ website: github.io/sustain
 website_full: https://nannxiao.github.io/sustain
 github: trending
 twitter: twitter
-tel: +44 0000 000000
-tel_full: tel:+440000000000
+tel: +1 206-954-6107
+tel_full: tel:+12069546107
 google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
-address: 44 Perth Street
-postcode: EH3 5BL
-city: Edinburgh
-country: United Kingdom
+address: 4235 11th Ave. NE
+postcode: 98105
+city: Seattle
+country: United States
 google_analytics: UA-69300817-1
 
 # needed for travis-ci build
